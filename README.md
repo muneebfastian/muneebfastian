@@ -15,10 +15,10 @@ I have excellent problem-solving and analytical skills. I have experience of ser
 
  **Languages and Frameworks:**
 <p align="left">
-  <img src="https://img.icons8.com/color/240/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/240/000000/javascript.png"/>
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
-  <img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png"/>
+  <img src="https://img.icons8.com/color/240/000000/nodejs.png" widht="100"/>
+  <img src="https://img.icons8.com/color/240/000000/javascript.png" widht="100"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/react.png" widht="100"/>
+  <img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png" widht="100"/>
 </p>
 
 **Connect with me:**
