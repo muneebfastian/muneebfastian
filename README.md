@@ -11,7 +11,7 @@ I have excellent problem-solving and analytical skills. I have experience of ser
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 ### 💼  Things that I'm currently working on: 
-* Working as an Associate Software Architect at CareAxiom/Icon.
+* Working as an Engineering Manager at CareAxiom/Icon.
 
  **Languages and Frameworks:**
 <p align="left">
